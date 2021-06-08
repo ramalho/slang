@@ -1,0 +1,5 @@
+This is Peter Norvig's lis.py [1] interpreter,
+adapted to use Python 3.10 pattern matching
+
+[1] http://norvig.com/lispy.html
+
